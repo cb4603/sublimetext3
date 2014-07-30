@@ -16,4 +16,4 @@ User configuration
 	"word_wrap": true,
 	"bold_folder_labels": true,
 	
-}</br>
+}
