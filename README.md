@@ -1,4 +1,4 @@
-# sublimetext3
+## CB4603 sublimetext3 user configuration
 ============
 
 User configuration
