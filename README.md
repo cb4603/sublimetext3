@@ -4,10 +4,10 @@
 User configuration
 
 {
-*	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-*	"ignored_packages":
-*	[	
-*		"Vintage"
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"ignored_packages":
+	[	
+		"Vintage"
 	],
 	"theme": "Spacegray.sublime-theme",
 	"highlight_line": true,
